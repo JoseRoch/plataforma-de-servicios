@@ -1,4 +1,4 @@
-# 🏗️ Plataforma de Servicios con Escrow
+# 🏗️ Plataforma de Servicios
 
 Plataforma web para conectar personas y empresas que necesitan servicios (inicialmente enfocados en **construcción**) con profesionales y compañías verificadas, utilizando un **sistema de escrow** que protege los pagos hasta que el trabajo sea aprobado.
 
@@ -78,13 +78,6 @@ A continuación se mostrarán algunas imágenes de la plataforma web:
 - Panel de usuario (cliente y proveedor)
 - Optimización SEO por servicio y ciudad
 - Integración con pasarela de pagos
-
----
-
-## 🤝 Contribuciones
-
-Este proyecto se encuentra en desarrollo continuo.  
-Las ideas, sugerencias y feedback son bienvenidos.
 
 ---
 
